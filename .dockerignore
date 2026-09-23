@@ -1,0 +1,13 @@
+.git
+.venv
+venv
+env
+__pycache__
+*.py[cod]
+.ipynb_checkpoints
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode
+.idea

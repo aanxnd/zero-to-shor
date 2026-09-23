@@ -1,0 +1,8 @@
+# Runtime dependencies for the notebook
+qiskit==2.5.2
+qiskit-aer==0.17.2
+pylatexenc==2.10
+matplotlib==3.11.2
+
+# Notebook interface
+jupyterlab==4.4.9
