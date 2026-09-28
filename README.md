@@ -137,13 +137,15 @@ Build the included Docker image:
 docker build -t quantum-qiskit .
 ```
 
-Run the container:
+Start the JupyterLab environment:
 
 ```bash
-docker run -it -p 8888:8888 quantum-qiskit
+docker run --rm -it -p 8888:8888 -v "${PWD}:/workspace" quantum-qiskit
 ```
 
-You can then work with the complete repository locally in an environment such as VS Code.
+Open the JupyterLab URL displayed in the terminal and select `intro_to_quantum_computing_with_qiskit.ipynb`.
+
+The Docker image uses Python 3.11 and installs the required dependencies from `requirements.txt`, providing a reproducible environment without requiring the packages to be installed directly on your system.
 
 ## Recommended background
 
