@@ -123,6 +123,11 @@ Click `intro_to_quantum_computing_with_qiskit.ipynb` in this repository, downloa
 Then run the notebook from the first cell onward. The setup cells install and import the required dependencies.
 
 ### Option 2: Clone and run with Docker
+Prerequisite: Docker Desktop
+
+This method requires Docker Desktop with the WSL 2 backend on Windows (or Docker Engine on Linux/macOS). If you're on Windows, install Docker Desktop and make sure WSL integration is enabled before continuing.
+
+Don't want to install Docker? Use Option 1: Download the .ipynb and run it locally instead.
 
 Clone the complete repository:
 
