@@ -1,5 +1,12 @@
 # Introduction to Quantum Computing with Qiskit
 
+> These notebooks were introduced and presented as part of an **Introduction to Quantum Computing and Qiskit** workshop with the **Quantum Club at the University of Waterloo**.
+
+<p align="center">
+  <img src="Picture%201.jpeg" alt="University of Waterloo Quantum Club workshop ? picture 1" width="49%" />
+  <img src="Picture%202.jpeg" alt="University of Waterloo Quantum Club workshop ? picture 2" width="49%" />
+</p>
+
 A hands-on introduction to quantum computing that builds from the first qubit to an end-to-end implementation of **Shor's factoring algorithm**.
 
 This project is structured as two interactive Jupyter notebooks for learners with basic Python experience and **no prior quantum-computing background**. Rather than treating quantum algorithms as black boxes, the notebooks develop them step by step through explanations, mathematics, executable Qiskit circuits, visualizations, experiments, and exercises.
