@@ -144,8 +144,8 @@ Don't want to install Docker? Use Option 1 to open the notebooks locally or in G
 Clone the complete repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/aanxnd/zero-to-shor/
+cd zero-to-shor
 ```
 
 Build the included Docker image:
