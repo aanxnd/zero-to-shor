@@ -120,7 +120,7 @@ Click `intro_to_quantum_computing_with_qiskit.ipynb` in this repository, downloa
 - JupyterLab
 - Jupyter Notebook
 
-Then run the notebook from the first cell onward. The setup cells install and import the required dependencies.
+Run the setup cells, then work through the notebook in order. Pause at exercise cells and complete the marked instructions before running them. Unfinished starters may raise errors or produce incomplete results. If you do not want to work through an exercise yourself, skip its starter cell and run the provided solution cell instead. The optional challenges require you to complete their TODOs before execution.
 
 ### Option 2: Clone and run with Docker
 Prerequisite: Docker Desktop
