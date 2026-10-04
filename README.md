@@ -1,6 +1,6 @@
 # Introduction to Quantum Computing with Qiskit
 
-> These notebooks were introduced and presented as part of an **Introduction to Quantum Computing and Qiskit** workshop with the **Quantum Club at the University of Waterloo**.
+> These notebooks were introduced and presented as part of an **Introduction to Quantum Computing and Qiskit** workshop with the **Quantum Club at the University of Waterloo**. **62 students attended the workshop**, using the notebooks to build quantum circuits in Qiskit, implement the QFT, and explore Shor’s algorithm hands-on.
 
 <p align="center">
   <img src="Picture%201.jpeg" alt="University of Waterloo Quantum Club workshop ? picture 1" width="49%" />
