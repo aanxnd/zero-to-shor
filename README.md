@@ -54,8 +54,8 @@ The two notebooks progress from fundamental concepts to a complete quantum algor
 
 The material is split into two parts to make each notebook more manageable:
 
-1. **Part 1: Quantum computing fundamentals** ? [intro_to_quantum_computing_with_qiskit.ipynb](intro_to_quantum_computing_with_qiskit.ipynb) covers qubits, gates, entanglement, phase and interference, and the QFT, including its exercises. It ends with a link to Part 2.
-2. **Part 2: Shor's algorithm** ? [shors_algorithm_with_qiskit.ipynb](shors_algorithm_with_qiskit.ipynb) starts with its own dependency installation, imports, and QFT helpers copied from Part 1, followed by Section 6 and all optional challenges.
+1. **Part 1: Quantum computing fundamentals**: [intro_to_quantum_computing_with_qiskit.ipynb](intro_to_quantum_computing_with_qiskit.ipynb) covers qubits, gates, entanglement, phase and interference, and the QFT, including its exercises. It ends with a link to Part 2.
+2. **Part 2: Shor's algorithm**: [shors_algorithm_with_qiskit.ipynb](shors_algorithm_with_qiskit.ipynb) starts with its own dependency installation, imports, and QFT helpers copied from Part 1, followed by Section 6 and all optional challenges.
 
 Work through **Part 1, then Part 2** to follow the learning progression. Each notebook runs independently: Part 2 includes all the setup and helper code it needs, so it does not require Part 1 to have been run or share a notebook session.
 
@@ -151,8 +151,8 @@ Don't want to install Docker? Use Option 1 to open the notebooks locally or in G
 Clone the complete repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/aanxnd/zero-to-shor/
+cd zero-to-shor
 ```
 
 Build the included Docker image:
